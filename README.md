@@ -1,3 +1,4 @@
+
 # Logger (TypeScript)
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
@@ -243,4 +244,6 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 ---
 
 **注意**: 当前实现为示例代码，生产环境使用时请根据具体需求进行安全性和性能优化。
+
+
 
